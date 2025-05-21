@@ -1,0 +1,7 @@
+1- How to check the methods and parent classes of your class?
+Show methods/attributes:- dir(ClassName)
+Show inheritance details:-	ClassName.__mro__ or ClassName.mro()
+Detailed doc-style info:-	help(ClassName)
+Show parent class directly:-	ClassName.__bases__
+==================================================================
+
